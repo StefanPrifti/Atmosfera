@@ -8,4 +8,4 @@ You can integrate the application with your wearable of choice and get notificat
 
 P.S. Atmosfera means Atmosphere in Albanian.
 
-![Alt text](/screenshot.png "Screenshot")
+![Alt text](/screenshot.png "Screenshot" =500px)
