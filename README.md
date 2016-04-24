@@ -6,3 +6,4 @@ The application lets you select some diseasses and get notifications if any of t
 
 You can integrate the application with your wearable of choice and get notifications on your watch. We plan to integrate this app with other apps such as Google Calendar, to get location based notifications. 
 
+P.S. Atmosfera means Atmosphere in Albanian.
